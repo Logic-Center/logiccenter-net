@@ -57,9 +57,8 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      "We've been absent for over a decade now, it's now 2022 now."
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
