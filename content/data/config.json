@@ -48,7 +48,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/logobetter3.jpg",
-            "altText": "altText of the image",
+            "altText": "Logic Center Logo",
             "caption": "Caption of the image",
             "elementId": ""
         }
