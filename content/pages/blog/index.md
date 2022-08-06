@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Upcoming adventures
+title: Logic Center Blog
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
