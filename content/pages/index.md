@@ -59,7 +59,7 @@ sections:
     colors: colors-d
     quote: |
       "We've been absent for over a decade now, it's now 2022."
-    name: Paul Wade
+    name: Paul
     title: Head chef at Parks
     styles:
       self:
