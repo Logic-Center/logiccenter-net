@@ -32,7 +32,7 @@
             {
                 "type": "Button",
                 "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:questions@logiccenter.net",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
