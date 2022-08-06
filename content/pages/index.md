@@ -20,14 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: It's been a while.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
+    actions: []
     backgroundImage:
       type: BackgroundImage
       url: /images/hero.webp
