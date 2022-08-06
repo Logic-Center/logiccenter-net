@@ -21,8 +21,8 @@ sections:
     title: About our business
     text: >
       Logic Center served the entire White Mountains of Arizona area for over 20
-      years giving the area's best computer tech services and solutions before
-      things changed in 2011 and it's people took different directions.
+      years giving the area's best computer technology services and solutions
+      before things changed in 2011 and its people took different directions.
     styles:
       self:
         height: auto
