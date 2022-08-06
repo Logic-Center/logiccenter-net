@@ -6,9 +6,7 @@ metaTags: []
 title: Hello World
 colors: colors-d
 date: '2022-08-05'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Hello World
 featuredImage:
   type: ImageBlock
   url: /images/avatar.jpg
