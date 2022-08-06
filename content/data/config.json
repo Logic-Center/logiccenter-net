@@ -62,7 +62,8 @@
             "phoneAltText": "Our phone",
             "email": "questions@logiccenter.net",
             "emailAltText": "questions@logiccenter.net",
-            "addressAltText": "Our address"
+            "addressAltText": "Our address",
+            "address": "White Mountains of Arizona"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
         "primaryLinks": [
