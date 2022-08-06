@@ -100,13 +100,6 @@
                 "label": "Twitter",
                 "url": "/logiccenter",
                 "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
             }
         ],
         "legalLinks": [
