@@ -19,13 +19,10 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About our business
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
-
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+    text: >
+      Logic Center served the entire White Mountains of Arizona area for over 20
+      years giving the area's best computer tech services and solutions before
+      things changed in 2011 and it's people took different directions.
     styles:
       self:
         height: auto
