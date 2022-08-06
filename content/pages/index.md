@@ -58,7 +58,7 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: |
-      "We've been absent for over a decade now, it's now 2022 now."
+      "We've been absent for over a decade now, it's now 2022."
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
