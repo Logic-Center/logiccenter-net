@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/logobetter3_ico.jpg",
     "header": {
         "headerVariant": "variant-b",
         "isSticky": true,
