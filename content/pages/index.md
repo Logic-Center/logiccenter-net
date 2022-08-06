@@ -20,7 +20,6 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: It's been a while.
-    subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
         label: Get Started
