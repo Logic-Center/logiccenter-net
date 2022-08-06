@@ -60,7 +60,7 @@ sections:
     quote: |
       "We've been absent for over a decade now, it's now 2022."
     name: Paul
-    title: Head chef at Parks
+    title: Owner
     styles:
       self:
         height: auto
