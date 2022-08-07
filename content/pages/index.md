@@ -25,13 +25,6 @@ sections:
       type: ImageBlock
       url: /images/hero.webp
       altText: Hero section image
-    backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      type: BackgroundImage
     styles:
       self:
         height: auto
