@@ -56,28 +56,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: QuoteSection
-    colors: colors-d
-    quote: |
-      "We've been absent for over a decade now, it's now 2022."
-    name: Paul
-    title: Owner
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
   - type: ContactSection
     colors: colors-d
     title: Join our club
