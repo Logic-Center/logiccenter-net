@@ -20,11 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: It's been awhile.
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero.webp
