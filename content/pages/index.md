@@ -86,13 +86,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: full
-          type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
           isRequired: false
