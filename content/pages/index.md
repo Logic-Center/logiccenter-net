@@ -62,7 +62,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      destination: ''
+      destination: newsletter@logiccenter.net
       action: /.netlify/functions/submission_created
       fields:
         - name: firstName
