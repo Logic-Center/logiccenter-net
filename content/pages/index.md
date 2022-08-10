@@ -23,7 +23,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero.webp
+      url: /images/bg.jpg
       altText: Hero section image
     styles:
       self:
